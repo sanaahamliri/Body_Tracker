@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const Timelapse = () => {
     return (
         <View>
-            <Text>Génération de Timelapse</Text>
+            <Text>Timelapse</Text>
         </View>
     );
 };
